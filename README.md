@@ -15,4 +15,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0007-reverse-integer) |
+## String
+|  |
+| ------- |
+| [0008-string-to-integer-atoi](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0008-string-to-integer-atoi) |
 <!---LeetCode Topics End-->
