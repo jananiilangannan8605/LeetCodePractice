@@ -53,10 +53,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0387-first-unique-character-in-a-string) |
 | [1044-find-common-characters](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1044-find-common-characters) |
+| [3540-hash-divided-string](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/3540-hash-divided-string) |
 ## Simulation
 |  |
 | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2324-find-triangular-sum-of-an-array) |
+| [3540-hash-divided-string](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/3540-hash-divided-string) |
 ## Combinatorics
 |  |
 | ------- |
