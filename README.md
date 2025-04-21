@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1044-find-common-characters](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1044-find-common-characters) |
 | [1137-height-checker](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1137-height-checker) |
 | [1256-rank-transform-of-an-array](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1256-rank-transform-of-an-array) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1044-find-common-characters](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1044-find-common-characters) |
 | [1256-rank-transform-of-an-array](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1256-rank-transform-of-an-array) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 ## Math
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1137-height-checker) |
 | [1256-rank-transform-of-an-array](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1256-rank-transform-of-an-array) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -135,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1137-height-checker) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
