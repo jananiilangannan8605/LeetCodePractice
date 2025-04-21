@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1044-find-common-characters](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1044-find-common-characters) |
 | [1256-rank-transform-of-an-array](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1256-rank-transform-of-an-array) |
+| [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 ## Math
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0387-first-unique-character-in-a-string) |
 | [1044-find-common-characters](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1044-find-common-characters) |
+| [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [3540-hash-divided-string](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/3540-hash-divided-string) |
 ## Simulation
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0387-first-unique-character-in-a-string) |
+| [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 ## Two Pointers
