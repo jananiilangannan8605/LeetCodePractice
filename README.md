@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0389-find-the-difference) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1044-find-common-characters](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1044-find-common-characters) |
 | [1256-rank-transform-of-an-array](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1256-rank-transform-of-an-array) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0412-fizz-buzz) |
 | [1044-find-common-characters](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1044-find-common-characters) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0389-find-the-difference) |
 | [0941-sort-array-by-parity](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1137-height-checker) |
@@ -135,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0137-single-number-ii](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0137-single-number-ii) |
 | [0287-find-the-duplicate-number](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0287-find-the-duplicate-number) |
+| [0389-find-the-difference](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0389-find-the-difference) |
 | [3246-check-if-bitwise-or-has-trailing-zeros](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/3246-check-if-bitwise-or-has-trailing-zeros) |
 ## Queue
 |  |
