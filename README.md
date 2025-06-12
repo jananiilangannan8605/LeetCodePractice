@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [3246-check-if-bitwise-or-has-trailing-zeros](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/3246-check-if-bitwise-or-has-trailing-zeros) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/3515-find-if-digit-game-can-be-won) |
+| [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Hash Table
 |  |
 | ------- |
