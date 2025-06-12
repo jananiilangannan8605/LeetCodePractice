@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0013-roman-to-integer) |
+| [0141-linked-list-cycle](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0242-valid-anagram) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0005-longest-palindromic-substring) |
+| [0141-linked-list-cycle](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0345-reverse-vowels-of-a-string) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0203-remove-linked-list-elements) |
 | [0908-middle-of-the-linked-list](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0908-middle-of-the-linked-list) |
 ## Recursion
