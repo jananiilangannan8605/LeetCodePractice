@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0387-first-unique-character-in-a-string) |
@@ -194,4 +195,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0053-maximum-subarray) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
