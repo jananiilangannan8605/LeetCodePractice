@@ -24,8 +24,6 @@ class Solution {
                 st = arr[i];
             }
         }
-
-        // Final check
         if (count > tc) {
             tc = count;
             stmax = st;
