@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0004-median-of-two-sorted-arrays) |
+| [0049-group-anagrams](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0066-plus-one) |
 | [0128-longest-consecutive-sequence](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0128-longest-consecutive-sequence) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0169-majority-element) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0387-first-unique-character-in-a-string) |
@@ -139,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0242-valid-anagram) |
