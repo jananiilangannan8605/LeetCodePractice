@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2324-find-triangular-sum-of-an-array](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [3246-check-if-bitwise-or-has-trailing-zeros](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/3246-check-if-bitwise-or-has-trailing-zeros) |
+| [3347-distribute-elements-into-two-arrays-i](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Hash Table
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0874-backspace-string-compare) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2324-find-triangular-sum-of-an-array) |
+| [3347-distribute-elements-into-two-arrays-i](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3540-hash-divided-string](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/3540-hash-divided-string) |
 ## Combinatorics
 |  |
