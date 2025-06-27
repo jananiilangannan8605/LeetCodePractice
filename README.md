@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0004-median-of-two-sorted-arrays) |
+| [0046-permutations](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0066-plus-one) |
@@ -259,4 +260,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
