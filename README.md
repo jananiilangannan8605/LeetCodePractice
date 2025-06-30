@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0229-majority-element-ii) |
+| [0239-sliding-window-maximum](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0387-first-unique-character-in-a-string) |
 ## Counting Sort
 |  |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
 |  |
@@ -273,4 +276,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0046-permutations) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
