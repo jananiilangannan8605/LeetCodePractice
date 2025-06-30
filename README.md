@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0005-longest-palindromic-substring) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0189-rotate-array) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0141-linked-list-cycle) |
