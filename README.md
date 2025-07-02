@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
+| [2591-frog-jump-ii](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2591-frog-jump-ii) |
 | [2634-minimum-common-value](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2634-minimum-common-value) |
 | [2727-number-of-senior-citizens](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2727-number-of-senior-citizens) |
 | [3246-check-if-bitwise-or-has-trailing-zeros](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/3246-check-if-bitwise-or-has-trailing-zeros) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0409-longest-palindrome](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0409-longest-palindrome) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
+| [2591-frog-jump-ii](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2591-frog-jump-ii) |
 ## Counting
 |  |
 | ------- |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0287-find-the-duplicate-number](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2591-frog-jump-ii](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2591-frog-jump-ii) |
 | [2634-minimum-common-value](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2634-minimum-common-value) |
 ## Sorting
 |  |
