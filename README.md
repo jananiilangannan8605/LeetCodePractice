@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0414-third-maximum-number](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0414-third-maximum-number) |
 | [0645-set-mismatch](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0735-asteroid-collision) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0414-third-maximum-number) |
 | [0645-set-mismatch](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0645-set-mismatch) |
 | [0941-sort-array-by-parity](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1019-squares-of-a-sorted-array) |
