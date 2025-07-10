@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3790-fruits-into-baskets-ii](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2886-faulty-keyboard](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2886-faulty-keyboard) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3540-hash-divided-string](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/3540-hash-divided-string) |
+| [3790-fruits-into-baskets-ii](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/3790-fruits-into-baskets-ii) |
 ## Combinatorics
 |  |
 | ------- |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2591-frog-jump-ii](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2591-frog-jump-ii) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2634-minimum-common-value](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2634-minimum-common-value) |
+| [3790-fruits-into-baskets-ii](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/3790-fruits-into-baskets-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -345,4 +348,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0139-word-break) |
+## Segment Tree
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/3790-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
