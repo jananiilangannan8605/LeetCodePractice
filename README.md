@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0189-rotate-array) |
 | [0412-fizz-buzz](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0412-fizz-buzz) |
+| [0504-base-7](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0504-base-7) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2556-convert-the-temperature](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2556-convert-the-temperature) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0412-fizz-buzz) |
+| [0504-base-7](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0504-base-7) |
 | [0541-reverse-string-ii](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0874-backspace-string-compare](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0874-backspace-string-compare) |
