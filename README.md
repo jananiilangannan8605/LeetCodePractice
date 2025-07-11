@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0889-buddy-strings](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0889-buddy-strings) |
 | [1044-find-common-characters](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1044-find-common-characters) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1542-consecutive-characters](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1542-consecutive-characters) |
 | [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2128-reverse-prefix-of-word](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2128-reverse-prefix-of-word) |
