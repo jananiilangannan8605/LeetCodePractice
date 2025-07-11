@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
+| [2093-check-if-string-is-a-prefix-of-array](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1044-find-common-characters](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1044-find-common-characters) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [2093-check-if-string-is-a-prefix-of-array](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2128-reverse-prefix-of-word](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2128-reverse-prefix-of-word) |
 | [2235-capitalize-the-title](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2235-capitalize-the-title) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-middle-of-the-linked-list](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1019-squares-of-a-sorted-array) |
+| [2093-check-if-string-is-a-prefix-of-array](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2128-reverse-prefix-of-word](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2128-reverse-prefix-of-word) |
 | [2634-minimum-common-value](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2634-minimum-common-value) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
