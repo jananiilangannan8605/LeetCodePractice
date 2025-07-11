@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2634-minimum-common-value](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2634-minimum-common-value) |
 | [2727-number-of-senior-citizens](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2727-number-of-senior-citizens) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3246-check-if-bitwise-or-has-trailing-zeros](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/3246-check-if-bitwise-or-has-trailing-zeros) |
 | [3324-split-the-array](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/3324-split-the-array) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1019-squares-of-a-sorted-array) |
 | [2128-reverse-prefix-of-word](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2128-reverse-prefix-of-word) |
 | [2634-minimum-common-value](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2634-minimum-common-value) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
 |  |
 | ------- |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2591-frog-jump-ii](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2591-frog-jump-ii) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2634-minimum-common-value](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2634-minimum-common-value) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3790-fruits-into-baskets-ii](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/3790-fruits-into-baskets-ii) |
 ## Sorting
 |  |
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1256-rank-transform-of-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Divide and Conquer
 |  |
 | ------- |
