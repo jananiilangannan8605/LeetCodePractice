@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0941-sort-array-by-parity) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1019-squares-of-a-sorted-array) |
+| [1036-rotting-oranges](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1036-rotting-oranges) |
 | [1044-find-common-characters](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1044-find-common-characters) |
 | [1137-height-checker](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1137-height-checker) |
 | [1256-rank-transform-of-an-array](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1256-rank-transform-of-an-array) |
@@ -355,10 +356,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0200-number-of-islands) |
+| [1036-rotting-oranges](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1036-rotting-oranges) |
 ## Matrix
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0200-number-of-islands) |
+| [1036-rotting-oranges](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1036-rotting-oranges) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Memoization
 |  |
