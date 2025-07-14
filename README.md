@@ -351,12 +351,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0110-balanced-binary-tree) |
 | [0200-number-of-islands](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0226-invert-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0101-symmetric-tree) |
 | [0200-number-of-islands](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0226-invert-binary-tree) |
 | [1036-rotting-oranges](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1036-rotting-oranges) |
@@ -386,11 +388,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
