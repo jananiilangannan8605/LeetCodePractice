@@ -351,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0110-balanced-binary-tree) |
 | [0200-number-of-islands](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0200-number-of-islands) |
 ## Breadth-First Search
 |  |
@@ -380,4 +381,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2292-counting-words-with-a-given-prefix](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2292-counting-words-with-a-given-prefix) |
+## Tree
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0110-balanced-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0110-balanced-binary-tree) |
 <!---LeetCode Topics End-->
