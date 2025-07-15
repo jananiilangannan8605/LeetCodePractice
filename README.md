@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0004-median-of-two-sorted-arrays) |
+| [0031-next-permutation](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0031-next-permutation) |
 | [0046-permutations](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0053-maximum-subarray) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0031-next-permutation](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0189-rotate-array) |
