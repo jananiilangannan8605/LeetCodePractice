@@ -5,7 +5,10 @@ class Solution {
       int cnt=0;
       int last=inter[0][1];
       for(int i=1;i<inter.length;i++){
-        if(inter[i][0]<last) cnt++;
+        if(inter[i][0]<last) {
+            cnt++;
+         last = Math.min(last, inter[i][1]);
+        }
         else last=inter[i][1];
       }
     return cnt;
