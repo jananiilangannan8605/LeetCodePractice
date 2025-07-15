@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0485-max-consecutive-ones) |
+| [0575-distribute-candies](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0735-asteroid-collision) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0409-longest-palindrome) |
+| [0575-distribute-candies](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0645-set-mismatch) |
 | [0889-buddy-strings](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0889-buddy-strings) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1001-n-repeated-element-in-size-2n-array) |
