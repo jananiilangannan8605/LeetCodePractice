@@ -347,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0183-customers-who-never-order](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0183-customers-who-never-order) |
 | [0197-rising-temperature](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0197-rising-temperature) |
 | [2024-calculate-special-bonus](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2024-calculate-special-bonus) |
+| [2110-employees-with-missing-information](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2110-employees-with-missing-information) |
 ## Design
 |  |
 | ------- |
