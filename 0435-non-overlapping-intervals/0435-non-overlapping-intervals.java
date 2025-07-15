@@ -7,7 +7,6 @@ class Solution {
       for(int i=1;i<inter.length;i++){
         if(inter[i][0]<last) {
             cnt++;
-         last = Math.min(last, inter[i][1]);
         }
         else last=inter[i][1];
       }
