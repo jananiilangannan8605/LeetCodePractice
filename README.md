@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3324-split-the-array](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/3324-split-the-array) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/3347-distribute-elements-into-two-arrays-i) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3790-fruits-into-baskets-ii](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/3790-fruits-into-baskets-ii) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0213-house-robber-ii) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0435-non-overlapping-intervals](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0435-non-overlapping-intervals) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Stack
 |  |
 | ------- |
