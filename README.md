@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2324-find-triangular-sum-of-an-array](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
+| [2374-steps-to-make-array-non-decreasing](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2374-steps-to-make-array-non-decreasing) |
 | [2591-frog-jump-ii](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2591-frog-jump-ii) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2634-minimum-common-value](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2634-minimum-common-value) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0908-middle-of-the-linked-list) |
+| [2374-steps-to-make-array-non-decreasing](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2374-steps-to-make-array-non-decreasing) |
 ## Recursion
 |  |
 | ------- |
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0874-backspace-string-compare) |
 | [2128-reverse-prefix-of-word](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2128-reverse-prefix-of-word) |
+| [2374-steps-to-make-array-non-decreasing](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2374-steps-to-make-array-non-decreasing) |
 ## Union Find
 |  |
 | ------- |
@@ -448,4 +451,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0404-sum-of-left-leaves) |
 | [1005-univalued-binary-tree](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1005-univalued-binary-tree) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2374-steps-to-make-array-non-decreasing](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2374-steps-to-make-array-non-decreasing) |
 <!---LeetCode Topics End-->
