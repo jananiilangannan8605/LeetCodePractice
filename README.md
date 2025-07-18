@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0128-longest-consecutive-sequence) |
+| [0135-candy](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0135-candy) |
 | [0137-single-number-ii](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0139-word-break) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0135-candy) |
 | [0409-longest-palindrome](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0409-longest-palindrome) |
 | [0420-strong-password-checker](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0420-strong-password-checker) |
 | [0435-non-overlapping-intervals](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0435-non-overlapping-intervals) |
