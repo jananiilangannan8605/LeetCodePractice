@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0504-base-7) |
+| [1013-fibonacci-number](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1013-fibonacci-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0234-palindrome-linked-list) |
+| [1013-fibonacci-number](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0213-house-robber-ii) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0435-non-overlapping-intervals](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0435-non-overlapping-intervals) |
+| [1013-fibonacci-number](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1013-fibonacci-number) |
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Stack
@@ -432,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0139-word-break) |
+| [1013-fibonacci-number](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1013-fibonacci-number) |
 ## Trie
 |  |
 | ------- |
