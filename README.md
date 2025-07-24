@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0135-candy) |
 | [0137-single-number-ii](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0139-word-break) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0189-rotate-array) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0189-rotate-array) |
 | [0412-fizz-buzz](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0412-fizz-buzz) |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0682-baseball-game) |
