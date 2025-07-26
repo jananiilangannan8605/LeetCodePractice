@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0089-gray-code) |
 | [0149-max-points-on-a-line](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0172-factorial-trailing-zeroes) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0089-gray-code) |
 | [0137-single-number-ii](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0137-single-number-ii) |
 | [0287-find-the-duplicate-number](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0389-find-the-difference) |
@@ -406,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0046-permutations](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0046-permutations) |
 | [0079-word-search](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0079-word-search) |
+| [0089-gray-code](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0089-gray-code) |
 ## Sliding Window
 |  |
 | ------- |
