@@ -392,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0197-rising-temperature](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0197-rising-temperature) |
 | [0584-find-customer-referee](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0595-big-countries) |
+| [0610-triangle-judgement](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0610-triangle-judgement) |
 | [1258-article-views-i](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1258-article-views-i) |
 | [1827-invalid-tweets](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1908-recyclable-and-low-fat-products) |
