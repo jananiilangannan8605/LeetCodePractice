@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0189-rotate-array) |
 | [0263-ugly-number](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0263-ugly-number) |
+| [0292-nim-game](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0504-base-7) |
@@ -516,4 +517,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0149-max-points-on-a-line) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
