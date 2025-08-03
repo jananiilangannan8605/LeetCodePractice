@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0792-binary-search) |
+| [0817-design-hashmap](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0817-design-hashmap) |
 | [0932-monotonic-array](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0932-monotonic-array) |
 | [0941-sort-array-by-parity](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0941-sort-array-by-parity) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1001-n-repeated-element-in-size-2n-array) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0409-longest-palindrome) |
 | [0575-distribute-candies](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0645-set-mismatch) |
+| [0817-design-hashmap](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0817-design-hashmap) |
 | [0889-buddy-strings](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0889-buddy-strings) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1044-find-common-characters](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1044-find-common-characters) |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0234-palindrome-linked-list) |
+| [0817-design-hashmap](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0817-design-hashmap) |
 | [0908-middle-of-the-linked-list](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0908-middle-of-the-linked-list) |
 | [2374-steps-to-make-array-non-decreasing](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2374-steps-to-make-array-non-decreasing) |
 ## Recursion
@@ -416,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0155-min-stack) |
+| [0817-design-hashmap](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0817-design-hashmap) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -530,4 +534,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0292-nim-game) |
+## Hash Function
+|  |
+| ------- |
+| [0817-design-hashmap](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0817-design-hashmap) |
 <!---LeetCode Topics End-->
