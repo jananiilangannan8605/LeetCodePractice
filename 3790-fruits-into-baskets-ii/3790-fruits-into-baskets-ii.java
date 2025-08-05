@@ -2,7 +2,7 @@ class Solution {
     public int numOfUnplacedFruits(int[] fruits, int[] baskets) {
         int n = fruits.length;
         int m = baskets.length;
-        boolean[] used = new boolean[m]; // track used baskets
+        boolean[] used = new boolean[m];
         int unplaced = 0;
 
         for (int i = 0; i < n; i++) {
