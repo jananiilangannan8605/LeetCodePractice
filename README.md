@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0485-max-consecutive-ones) |
 | [0575-distribute-candies](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0575-distribute-candies) |
+| [0643-maximum-average-subarray-i](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0735-asteroid-collision) |
@@ -441,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0239-sliding-window-maximum) |
+| [0643-maximum-average-subarray-i](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0643-maximum-average-subarray-i) |
 ## Monotonic Queue
 |  |
 | ------- |
