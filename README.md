@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0792-binary-search) |
 | [0817-design-hashmap](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0817-design-hashmap) |
+| [0898-transpose-matrix](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0898-transpose-matrix) |
 | [0932-monotonic-array](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0932-monotonic-array) |
 | [0941-sort-array-by-parity](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0941-sort-array-by-parity) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1001-n-repeated-element-in-size-2n-array) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0874-backspace-string-compare) |
+| [0898-transpose-matrix](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0898-transpose-matrix) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2886-faulty-keyboard](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2886-faulty-keyboard) |
@@ -488,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0463-island-perimeter) |
+| [0898-transpose-matrix](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0898-transpose-matrix) |
 | [1036-rotting-oranges](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1036-rotting-oranges) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Memoization
