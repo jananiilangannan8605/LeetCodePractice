@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2341-count-prefixes-of-a-given-string) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2634-minimum-common-value](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2634-minimum-common-value) |
@@ -495,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1036-rotting-oranges) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1677-matrix-diagonal-sum) |
+| [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 ## Memoization
 |  |
 | ------- |
