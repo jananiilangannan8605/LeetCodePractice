@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0485-max-consecutive-ones) |
 | [0575-distribute-candies](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0575-distribute-candies) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0682-baseball-game) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0409-longest-palindrome) |
 | [0575-distribute-candies](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0575-distribute-candies) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0645-set-mismatch) |
 | [0817-design-hashmap](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0817-design-hashmap) |
 | [0889-buddy-strings](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0889-buddy-strings) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0504-base-7) |
 | [0541-reverse-string-ii](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0874-backspace-string-compare](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0874-backspace-string-compare) |
 | [0889-buddy-strings](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0889-buddy-strings) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0920-uncommon-words-from-two-sentences) |
