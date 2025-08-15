@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1044-find-common-characters](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1044-find-common-characters) |
 | [1137-height-checker](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1137-height-checker) |
 | [1256-rank-transform-of-an-array](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1256-rank-transform-of-an-array) |
+| [1349-check-if-it-is-a-straight-line](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1370-count-number-of-nice-subarrays](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1370-count-number-of-nice-subarrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0728-self-dividing-numbers) |
 | [1013-fibonacci-number](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1349-check-if-it-is-a-straight-line](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1370-count-number-of-nice-subarrays](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1370-count-number-of-nice-subarrays) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -576,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0149-max-points-on-a-line) |
+| [1349-check-if-it-is-a-straight-line](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1349-check-if-it-is-a-straight-line) |
 ## Brainteaser
 |  |
 | ------- |
