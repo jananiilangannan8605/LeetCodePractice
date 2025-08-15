@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0792-binary-search) |
 | [0817-design-hashmap](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0817-design-hashmap) |
 | [0898-transpose-matrix](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0898-transpose-matrix) |
+| [0924-fair-candy-swap](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0924-fair-candy-swap) |
 | [0932-monotonic-array](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0932-monotonic-array) |
 | [0941-sort-array-by-parity](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0941-sort-array-by-parity) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1001-n-repeated-element-in-size-2n-array) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-design-hashmap](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0817-design-hashmap) |
 | [0889-buddy-strings](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0889-buddy-strings) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0924-fair-candy-swap](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0924-fair-candy-swap) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1044-find-common-characters](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1044-find-common-characters) |
 | [1256-rank-transform-of-an-array](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1256-rank-transform-of-an-array) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0792-binary-search](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0792-binary-search) |
+| [0924-fair-candy-swap](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0924-fair-candy-swap) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -324,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0435-non-overlapping-intervals) |
 | [0645-set-mismatch](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0645-set-mismatch) |
+| [0924-fair-candy-swap](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0924-fair-candy-swap) |
 | [0941-sort-array-by-parity](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1137-height-checker) |
