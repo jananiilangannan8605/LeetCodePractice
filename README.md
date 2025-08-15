@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0292-nim-game) |
+| [0342-power-of-four](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0504-base-7) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0645-set-mismatch) |
 | [1054-complement-of-base-10-integer](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1054-complement-of-base-10-integer) |
@@ -396,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0234-palindrome-linked-list) |
+| [0342-power-of-four](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
 |  |
