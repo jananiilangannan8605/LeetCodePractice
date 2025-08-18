@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1349-check-if-it-is-a-straight-line](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1370-count-number-of-nice-subarrays](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1370-count-number-of-nice-subarrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1370-count-number-of-nice-subarrays) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [2083-three-divisors](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2324-find-triangular-sum-of-an-array) |
