@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0091-decode-ways) |
@@ -414,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0005-longest-palindromic-substring) |
+| [0032-longest-valid-parentheses](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0091-decode-ways) |
@@ -430,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0032-longest-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0234-palindrome-linked-list) |
