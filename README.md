@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2106-find-greatest-common-divisor-of-array](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2341-count-prefixes-of-a-given-string) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0874-backspace-string-compare) |
 | [0898-transpose-matrix](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0898-transpose-matrix) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2886-faulty-keyboard](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2886-faulty-keyboard) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/3347-distribute-elements-into-two-arrays-i) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2128-reverse-prefix-of-word](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2128-reverse-prefix-of-word) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2634-minimum-common-value](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2634-minimum-common-value) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
