@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0004-median-of-two-sorted-arrays) |
+| [0074-search-a-2d-matrix](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0287-find-the-duplicate-number](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0287-find-the-duplicate-number) |
@@ -527,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0463-island-perimeter) |
