@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2634-minimum-common-value](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2634-minimum-common-value) |
 | [2727-number-of-senior-citizens](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2727-number-of-senior-citizens) |
+| [2831-number-of-beautiful-pairs](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2831-number-of-beautiful-pairs) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3246-check-if-bitwise-or-has-trailing-zeros](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/3246-check-if-bitwise-or-has-trailing-zeros) |
 | [3324-split-the-array](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/3324-split-the-array) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2634-minimum-common-value](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2634-minimum-common-value) |
+| [2831-number-of-beautiful-pairs](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2831-number-of-beautiful-pairs) |
 | [3324-split-the-array](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/3324-split-the-array) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2491-smallest-even-multiple](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2556-convert-the-temperature) |
 | [2748-calculate-delayed-arrival-time](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2748-calculate-delayed-arrival-time) |
+| [2831-number-of-beautiful-pairs](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2831-number-of-beautiful-pairs) |
 | [3371-harshad-number](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/3371-harshad-number) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/3515-find-if-digit-game-can-be-won) |
 ## String
@@ -282,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2831-number-of-beautiful-pairs](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2831-number-of-beautiful-pairs) |
 | [3324-split-the-array](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/3324-split-the-array) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3778-transform-array-by-parity](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/3778-transform-array-by-parity) |
@@ -590,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2083-three-divisors](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2491-smallest-even-multiple](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2491-smallest-even-multiple) |
+| [2831-number-of-beautiful-pairs](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2831-number-of-beautiful-pairs) |
 ## Enumeration
 |  |
 | ------- |
