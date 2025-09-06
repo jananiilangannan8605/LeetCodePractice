@@ -8,7 +8,7 @@ class Solution {
             }
         }
         if(set.size()<2) return -1;
-        set.pollLast();
-        return set.last();
+        //set.pollLast();
+        return set.lower(set.last());
     }
 }
