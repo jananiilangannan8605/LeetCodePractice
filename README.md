@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2374-steps-to-make-array-non-decreasing](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2374-steps-to-make-array-non-decreasing) |
 | [2591-frog-jump-ii](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2591-frog-jump-ii) |
+| [2594-count-pairs-of-similar-strings](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2594-count-pairs-of-similar-strings) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2634-minimum-common-value](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2634-minimum-common-value) |
 | [2727-number-of-senior-citizens](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2727-number-of-senior-citizens) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2532-remove-letter-to-equalize-frequency) |
+| [2594-count-pairs-of-similar-strings](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2594-count-pairs-of-similar-strings) |
 | [2634-minimum-common-value](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2634-minimum-common-value) |
 | [2831-number-of-beautiful-pairs](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2831-number-of-beautiful-pairs) |
 | [3324-split-the-array](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/3324-split-the-array) |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2292-counting-words-with-a-given-prefix](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2532-remove-letter-to-equalize-frequency) |
+| [2594-count-pairs-of-similar-strings](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2594-count-pairs-of-similar-strings) |
 | [2727-number-of-senior-citizens](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2727-number-of-senior-citizens) |
 | [2886-faulty-keyboard](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2886-faulty-keyboard) |
 | [2887-sort-vowels-in-a-string](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2887-sort-vowels-in-a-string) |
@@ -290,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2532-remove-letter-to-equalize-frequency) |
+| [2594-count-pairs-of-similar-strings](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2594-count-pairs-of-similar-strings) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2831-number-of-beautiful-pairs](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2831-number-of-beautiful-pairs) |
 | [3324-split-the-array](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/3324-split-the-array) |
@@ -384,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0645-set-mismatch) |
 | [1054-complement-of-base-10-integer](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1054-complement-of-base-10-integer) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2594-count-pairs-of-similar-strings](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2594-count-pairs-of-similar-strings) |
 | [3246-check-if-bitwise-or-has-trailing-zeros](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/3246-check-if-bitwise-or-has-trailing-zeros) |
 ## Queue
 |  |
