@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2594-count-pairs-of-similar-strings](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2594-count-pairs-of-similar-strings) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2634-minimum-common-value](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2634-minimum-common-value) |
+| [2654-count-the-number-of-vowel-strings-in-range](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2727-number-of-senior-citizens](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2727-number-of-senior-citizens) |
 | [2831-number-of-beautiful-pairs](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2831-number-of-beautiful-pairs) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2341-count-prefixes-of-a-given-string](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2594-count-pairs-of-similar-strings](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2594-count-pairs-of-similar-strings) |
+| [2654-count-the-number-of-vowel-strings-in-range](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2727-number-of-senior-citizens](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2727-number-of-senior-citizens) |
 | [2886-faulty-keyboard](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2886-faulty-keyboard) |
 | [2887-sort-vowels-in-a-string](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2887-sort-vowels-in-a-string) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2532-remove-letter-to-equalize-frequency](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2594-count-pairs-of-similar-strings](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2594-count-pairs-of-similar-strings) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2654-count-the-number-of-vowel-strings-in-range](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2831-number-of-beautiful-pairs](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2831-number-of-beautiful-pairs) |
 | [3324-split-the-array](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/3324-split-the-array) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
