@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1677-matrix-diagonal-sum](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1677-matrix-diagonal-sum) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1975-minimum-distance-to-the-target-element](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1975-minimum-distance-to-the-target-element) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1746-largest-substring-between-two-equal-characters) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1904-second-largest-digit-in-a-string](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1904-second-largest-digit-in-a-string) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1542-consecutive-characters](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1542-consecutive-characters) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1746-largest-substring-between-two-equal-characters) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1904-second-largest-digit-in-a-string](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1904-second-largest-digit-in-a-string) |
 | [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -284,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -379,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0645-set-mismatch) |
 | [1054-complement-of-base-10-integer](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1054-complement-of-base-10-integer) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3246-check-if-bitwise-or-has-trailing-zeros](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/3246-check-if-bitwise-or-has-trailing-zeros) |
 ## Queue
 |  |
