@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0728-self-dividing-numbers) |
 | [1013-fibonacci-number](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1195-distribute-candies-to-people](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1195-distribute-candies-to-people) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1370-count-number-of-nice-subarrays](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1370-count-number-of-nice-subarrays) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0874-backspace-string-compare) |
 | [0898-transpose-matrix](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0898-transpose-matrix) |
+| [1195-distribute-candies-to-people](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1195-distribute-candies-to-people) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2324-find-triangular-sum-of-an-array) |
