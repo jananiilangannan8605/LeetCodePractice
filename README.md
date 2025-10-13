@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0420-strong-password-checker](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0420-strong-password-checker) |
 | [0434-number-of-segments-in-a-string](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0434-number-of-segments-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0459-repeated-substring-pattern) |
+| [0482-license-key-formatting](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0482-license-key-formatting) |
 | [0504-base-7](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0504-base-7) |
 | [0541-reverse-string-ii](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0557-reverse-words-in-a-string-iii) |
