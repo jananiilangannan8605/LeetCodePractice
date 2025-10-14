@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2491-smallest-even-multiple](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2556-convert-the-temperature) |
 | [2748-calculate-delayed-arrival-time](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2748-calculate-delayed-arrival-time) |
+| [2752-sum-multiples](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2752-sum-multiples) |
 | [2831-number-of-beautiful-pairs](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2831-number-of-beautiful-pairs) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3371-harshad-number](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/3371-harshad-number) |
