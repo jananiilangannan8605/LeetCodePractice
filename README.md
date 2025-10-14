@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3778-transform-array-by-parity](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/3778-transform-array-by-parity) |
 | [3790-fruits-into-baskets-ii](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/3790-fruits-into-baskets-ii) |
+| [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [4058-compute-alternating-sum](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/4058-compute-alternating-sum) |
 ## Hash Table
 |  |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3371-harshad-number](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/3371-harshad-number) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/3515-find-if-digit-game-can-be-won) |
+| [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/3995-gcd-of-odd-and-even-sums) |
 ## String
 |  |
