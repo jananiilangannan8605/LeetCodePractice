@@ -4,7 +4,7 @@ class Solution {
         int sum2=0;
         for(int i=1;i<=n;i++){
             if(i%m==0) sum1+=i;
-            if(i%m!=0)sum2+=i;
+            else sum2+=i;
         }
         return sum2-sum1;
     }
