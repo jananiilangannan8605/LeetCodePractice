@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1677-matrix-diagonal-sum](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1677-matrix-diagonal-sum) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1975-minimum-distance-to-the-target-element](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1975-minimum-distance-to-the-target-element) |
 | [2058-concatenation-of-array](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2058-concatenation-of-array) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1542-consecutive-characters](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1542-consecutive-characters) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1746-largest-substring-between-two-equal-characters) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1904-second-largest-digit-in-a-string](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1904-second-largest-digit-in-a-string) |
 | [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
