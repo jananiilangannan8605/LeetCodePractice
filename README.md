@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
+| [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1677-matrix-diagonal-sum](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1677-matrix-diagonal-sum) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1975-minimum-distance-to-the-target-element](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1975-minimum-distance-to-the-target-element) |
@@ -394,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2887-sort-vowels-in-a-string](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2887-sort-vowels-in-a-string) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
