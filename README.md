@@ -255,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1746-largest-substring-between-two-equal-characters](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1844-replace-all-digits-with-characters](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1844-replace-all-digits-with-characters) |
 | [1904-second-largest-digit-in-a-string](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1904-second-largest-digit-in-a-string) |
 | [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1960-check-if-the-sentence-is-pangram) |
