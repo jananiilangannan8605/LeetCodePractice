@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1542-consecutive-characters](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1542-consecutive-characters) |
+| [1678-goal-parser-interpretation](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1678-goal-parser-interpretation) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1786-count-the-number-of-consistent-strings) |
