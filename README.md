@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0874-backspace-string-compare) |
 | [0889-buddy-strings](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0889-buddy-strings) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1021-remove-outermost-parentheses](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1021-remove-outermost-parentheses) |
 | [1044-find-common-characters](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1044-find-common-characters) |
 | [1108-defanging-an-ip-address](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1108-defanging-an-ip-address) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -511,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0874-backspace-string-compare) |
+| [1021-remove-outermost-parentheses](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1021-remove-outermost-parentheses) |
 | [2128-reverse-prefix-of-word](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2128-reverse-prefix-of-word) |
 | [2374-steps-to-make-array-non-decreasing](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2374-steps-to-make-array-non-decreasing) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
