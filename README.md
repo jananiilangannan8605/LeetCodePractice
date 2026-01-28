@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2752-sum-multiples](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2752-sum-multiples) |
 | [2831-number-of-beautiful-pairs](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2831-number-of-beautiful-pairs) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3280-convert-date-to-binary](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/3280-convert-date-to-binary) |
 | [3371-harshad-number](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/3371-harshad-number) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2727-number-of-senior-citizens](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2727-number-of-senior-citizens) |
 | [2886-faulty-keyboard](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2886-faulty-keyboard) |
 | [2887-sort-vowels-in-a-string](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2887-sort-vowels-in-a-string) |
+| [3280-convert-date-to-binary](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/3280-convert-date-to-binary) |
 | [3396-valid-word](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/3396-valid-word) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
