@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0507-perfect-number) |
 | [0728-self-dividing-numbers](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0728-self-dividing-numbers) |
+| [0858-mirror-reflection](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0858-mirror-reflection) |
 | [1013-fibonacci-number](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1013-fibonacci-number) |
 | [1031-add-to-array-form-of-integer](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1031-add-to-array-form-of-integer) |
 | [1137-n-th-tribonacci-number](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1137-n-th-tribonacci-number) |
@@ -655,6 +656,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0204-count-primes) |
+| [0858-mirror-reflection](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0858-mirror-reflection) |
 | [2083-three-divisors](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2491-smallest-even-multiple](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2491-smallest-even-multiple) |
@@ -669,6 +671,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0149-max-points-on-a-line) |
+| [0858-mirror-reflection](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0858-mirror-reflection) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1349-check-if-it-is-a-straight-line) |
 ## Brainteaser
 |  |
