@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0213-house-robber-ii) |
 | [0229-majority-element-ii](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0239-sliding-window-maximum) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0292-nim-game) |
@@ -652,6 +654,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0204-count-primes) |
 | [2083-three-divisors](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2491-smallest-even-multiple](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2491-smallest-even-multiple) |
@@ -660,6 +663,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0204-count-primes) |
 | [2083-three-divisors](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2083-three-divisors) |
 ## Geometry
 |  |
