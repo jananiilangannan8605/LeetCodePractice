@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1447-simplified-fractions](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1447-simplified-fractions) |
 | [1642-water-bottles](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1642-water-bottles) |
 | [2083-three-divisors](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1108-defanging-an-ip-address) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1447-simplified-fractions](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1447-simplified-fractions) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1542-consecutive-characters](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1542-consecutive-characters) |
 | [1678-goal-parser-interpretation](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1678-goal-parser-interpretation) |
@@ -662,6 +664,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0204-count-primes) |
 | [0858-mirror-reflection](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0858-mirror-reflection) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [1447-simplified-fractions](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1447-simplified-fractions) |
 | [2083-three-divisors](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2491-smallest-even-multiple](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2491-smallest-even-multiple) |
