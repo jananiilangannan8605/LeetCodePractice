@@ -4,7 +4,6 @@ class Solution {
         while (i >= 0 && nums[i] >= nums[i + 1]) {
             i--;
         }
-
         if (i >= 0) {
             int j = nums.length - 1;
             while (nums[j] <= nums[i]) {
@@ -14,10 +13,8 @@ class Solution {
             nums[i] = nums[j];
             nums[j] = temp;
         }
-
         reverse(nums, i + 1, nums.length - 1);
     }
-
     public static void reverse(int[] nums, int st, int end) {
         while (st < end) {
             int temp = nums[st];
