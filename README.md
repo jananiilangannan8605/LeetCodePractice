@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2106-find-greatest-common-divisor-of-array](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2383-add-two-integers](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2383-add-two-integers) |
+| [2485-find-the-pivot-integer](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2485-find-the-pivot-integer) |
 | [2491-smallest-even-multiple](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2556-convert-the-temperature) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -566,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1370-count-number-of-nice-subarrays](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1370-count-number-of-nice-subarrays) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
+| [2485-find-the-pivot-integer](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2485-find-the-pivot-integer) |
 | [3719-longest-balanced-subarray-i](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/3719-longest-balanced-subarray-i) |
 ## Backtracking
 |  |
