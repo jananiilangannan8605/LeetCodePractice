@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2831-number-of-beautiful-pairs](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2831-number-of-beautiful-pairs) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3246-check-if-bitwise-or-has-trailing-zeros](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/3246-check-if-bitwise-or-has-trailing-zeros) |
 | [3324-split-the-array](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/3324-split-the-array) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2727-number-of-senior-citizens](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2727-number-of-senior-citizens) |
 | [2886-faulty-keyboard](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2886-faulty-keyboard) |
 | [2887-sort-vowels-in-a-string](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2887-sort-vowels-in-a-string) |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3280-convert-date-to-binary](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/3280-convert-date-to-binary) |
 | [3396-valid-word](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/3396-valid-word) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/3408-count-the-number-of-special-characters-i) |
@@ -632,6 +634,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0139-word-break) |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## Segment Tree
 |  |
 | ------- |
@@ -642,6 +645,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0459-repeated-substring-pattern) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2292-counting-words-with-a-given-prefix) |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## Tree
 |  |
 | ------- |
@@ -702,8 +706,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0817-design-hashmap](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0817-design-hashmap) |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## Ordered Set
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/3790-fruits-into-baskets-ii) |
+## Rolling Hash
+|  |
+| ------- |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 <!---LeetCode Topics End-->
