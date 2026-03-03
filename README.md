@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1677-matrix-diagonal-sum](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1677-matrix-diagonal-sum) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1542-consecutive-characters](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1542-consecutive-characters) |
 | [1678-goal-parser-interpretation](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1678-goal-parser-interpretation) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1746-largest-substring-between-two-equal-characters) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1844-replace-all-digits-with-characters](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1844-replace-all-digits-with-characters) |
@@ -571,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1370-count-number-of-nice-subarrays](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1370-count-number-of-nice-subarrays) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2485-find-the-pivot-integer](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/2485-find-the-pivot-integer) |
 | [3719-longest-balanced-subarray-i](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/3719-longest-balanced-subarray-i) |
 ## Backtracking
