@@ -277,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1844-replace-all-digits-with-characters](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1844-replace-all-digits-with-characters) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1904-second-largest-digit-in-a-string](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1904-second-largest-digit-in-a-string) |
 | [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -520,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1013-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1137-n-th-tribonacci-number) |
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Stack
 |  |
@@ -590,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/0643-maximum-average-subarray-i) |
 | [1370-count-number-of-nice-subarrays](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1370-count-number-of-nice-subarrays) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/jananiilangannan8605/LeetCodePractice/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Monotonic Queue
 |  |
 | ------- |
